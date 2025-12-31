@@ -6,7 +6,7 @@ It includes classic problems, detailed solutions, and practice questions to stre
 ---
 
 ## 📂 Contents
-- Arrays  
+- Arrays   
 - Linked Lists  
 - Stacks & Queues  
 - Trees & Graphs  
