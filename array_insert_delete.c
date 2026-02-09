@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-
+ 
 void main() {
     int arr[10], n, pos, i, value;
     clrscr();
